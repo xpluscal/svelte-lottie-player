@@ -129,7 +129,7 @@
     }
 
     // Remove the attached Visibility API's change event listener.
-    document.removeEventListener("visibilitychange", onVisibilityChange);
+    // document.removeEventListener("visibilitychange", onVisibilityChange);
   });
 
   /**
